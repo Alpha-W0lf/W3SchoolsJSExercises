@@ -48,8 +48,11 @@
 //     firstName: "John",
 //     lastName: "Doe"
 // };                        // object
-// JS Functions 1-1: Use the correct assignment operator that will result in x being 50 (same as x = x * y).
-
+// JS Functions 1-1: Execute the function named myFunction.
+function myFunction() {
+    alert("Hello World");
+};
+myFunction();
 // JS Functions 2-1: Create a function called "myFunction".
 
 // JS Functions 3-1: Make the function return "Hello".
