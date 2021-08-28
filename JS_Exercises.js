@@ -54,8 +54,11 @@
 // };
 // myFunction();
 // JS Functions 2-1: Create a function called "myFunction".
-function myFunction() {
-};
+// function myFunction() {
+// };
 // JS Functions 3-1: Make the function return "Hello".
-
+// function myFunction() {
+//     return "Hello";
+// };
+// document.getElementById('demo').innerHTML = myFunction();
 // JS Functions 4-1: Make the function display "Hello" in the inner HTML of an element with the ID "demo".
