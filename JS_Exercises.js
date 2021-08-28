@@ -9,13 +9,11 @@ console.log(x);
 // JS Variables 3-1: Display the sum of 5 + 10, using two variables: x and y.
 var x = 5;
 var y = 10;
-// document.getElementById("demo").innerHTML = "x + y";
-// var test = document.getElementById("demo").innerHTML;
+document.getElementById("demo").innerHTML = x + y;
+var test = document.getElementById("demo").innerHTML;
 var divText = document.getElementById("myDiv").innerHTML;
 console.log(test);
 console.log(divText);
-
-
 
 // JS Variables 4-1: Create a variable called z, assign x + y to it, and display the result in an alert box.
 
