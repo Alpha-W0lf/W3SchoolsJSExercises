@@ -30,11 +30,17 @@
 // JS Operators 2-1: Divide 10 by 2, and alert the result:
 // alert(10/2);
 // JS Operators 3-1: Alert the remainder when 15 is divided by 9.
-alert(15%9);
+// alert(15%9);
 // JS Operators 4-1: Use the correct assignment operator that will result in x being 15 (same as x = x + y).
-
+// x = 10;
+// y = 5;
+// x += y;
+// console.log(x);
 // JS Operators 5-1: Use the correct assignment operator that will result in x being 50 (same as x = x * y).
-
+x = 10;
+y = 5;
+x *= y;
+console.log(x);
 // JS Data Types 1-1: Use comments to describe the correct data type of the following variables:
 
 // JS Functions 1-1: Use the correct assignment operator that will result in x being 50 (same as x = x * y).
