@@ -14,16 +14,17 @@
 // var divText = document.getElementById("myDiv").innerHTML;
 // console.log(test);
 // console.log(divText);
-// JS Variables 4-1: Create a variable called z, assign x + y to it, and display the result in an alert box.
-var x = 5;
-var y = 10;
-var z = x + y;
-alert(z);
-
+// // JS Variables 4-1: Create a variable called z, assign x + y to it, and display the result in an alert box.
+// var x = 5;
+// var y = 10;
+// var z = x + y;
+// alert(z);
 // JS Variables 5-1: On one single line, declare three variables with the following names and values:
 // firstName = "John"
 // lastName = "Doe"
 // age = 35
+// var firstName = "John", lastName = "Doe", age = 35;
+// console.log(firstName, lastName, age);
 
 // JS Operators 1-1: Multiply 10 with 5, and alert the result:
 
