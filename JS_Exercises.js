@@ -49,12 +49,13 @@
 //     lastName: "Doe"
 // };                        // object
 // JS Functions 1-1: Execute the function named myFunction.
-function myFunction() {
-    alert("Hello World");
-};
-myFunction();
+// function myFunction() {
+//     alert("Hello World");
+// };
+// myFunction();
 // JS Functions 2-1: Create a function called "myFunction".
-
+function myFunction() {
+};
 // JS Functions 3-1: Make the function return "Hello".
 
 // JS Functions 4-1: Make the function display "Hello" in the inner HTML of an element with the ID "demo".
