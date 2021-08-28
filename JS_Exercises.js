@@ -1,21 +1,24 @@
-// JS Variables 1-1: Create a variable called carName, assign the value Volvo to it.
-var carName = "Volvo";
-document.write(carName);
-console.log(carName);
-// JS Variables 2-1: Create a variable called x, assign the value 50 to it.
-var x = 50;
-document.write(x);
-console.log(x);
-// JS Variables 3-1: Display the sum of 5 + 10, using two variables: x and y.
+// // JS Variables 1-1: Create a variable called carName, assign the value Volvo to it.
+// var carName = "Volvo";
+// document.write(carName);
+// console.log(carName);
+// // JS Variables 2-1: Create a variable called x, assign the value 50 to it.
+// var x = 50;
+// document.write(x);
+// console.log(x);
+// // JS Variables 3-1: Display the sum of 5 + 10, using two variables: x and y.
+// var x = 5;
+// var y = 10;
+// document.getElementById("demo").innerHTML = x + y;
+// var test = document.getElementById("demo").innerHTML;
+// var divText = document.getElementById("myDiv").innerHTML;
+// console.log(test);
+// console.log(divText);
+// JS Variables 4-1: Create a variable called z, assign x + y to it, and display the result in an alert box.
 var x = 5;
 var y = 10;
-document.getElementById("demo").innerHTML = x + y;
-var test = document.getElementById("demo").innerHTML;
-var divText = document.getElementById("myDiv").innerHTML;
-console.log(test);
-console.log(divText);
-
-// JS Variables 4-1: Create a variable called z, assign x + y to it, and display the result in an alert box.
+var z = x + y;
+alert(z);
 
 // JS Variables 5-1: On one single line, declare three variables with the following names and values:
 // firstName = "John"
