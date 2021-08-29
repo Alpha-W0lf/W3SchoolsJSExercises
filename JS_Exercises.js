@@ -112,7 +112,9 @@
 // let x = txt.slice(10, 17);
 // console.log(x);
 // JS String Methods 3-1: Use the correct String method to replace the word "Hello" with the word "Welcome".
-
+// let txt = "Hello World";
+// txt = txt.replace("Hello", "Welcome");
+// console.log(txt);
 // JS String Methods 4-1: Convert the value of txt to upper case.
 
 // JS String Methods 5-1: Convert the value of txt to lower case.
