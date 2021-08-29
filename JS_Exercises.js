@@ -247,7 +247,10 @@
 //     console.log(i);
 // }
 // JS For Loops 2-1: Create a loop that runs through each item in the fruits array.
-
+// const fruits = ["Apple", "Banana", "Orange"];
+// for (x in fruits) {
+//     console.log(x);
+// }
 // JS While Loops 1-1: Create a loop that runs as long as i is less than 10.
 
 // JS While Loops 2-1: Create a loop that runs as long as i is less than 10, but increase i with 2 each time.
