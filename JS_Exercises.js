@@ -168,7 +168,8 @@
 // d.setFullYear(2020);
 // console.log(d);
 // JS Math 1-1: Use the correct Math method to create a random number.
-
+// let r = Math.random();
+// console.log(r);
 // JS Math 2-1: Use the correct Math method to return the largest number of 10 and 20.
 
 // JS Math 3-1: Use the correct Math method to round a number to the nearest integer.
