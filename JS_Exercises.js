@@ -152,9 +152,9 @@
 // fruits.sort();
 // console.log(fruits);
 // JS Dates 1-1: Create a Date object and alert the current date and time.
-const d = [Date.now]
-console.log(d);
-alert();
+// const d = new Date();
+// console.log(d);
+// alert(d);
 // JS Dates 2-1: Use the correct Date method to extract the year (four digits) out of a date object.
 
 // JS Dates 3-1: Use the correct Date method to get the month (0-11) out of a date object.
