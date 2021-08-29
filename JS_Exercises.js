@@ -271,7 +271,12 @@
 //     }
 // }
 // JS Break Loops 2-1: Make the loop jump to the next iteration when i is 5.
-
+for (i = 0; i < 10; i++) {
+    if (i ==5) {
+        continue;
+    }
+    console.log(i);
+}
 // JS HTML DOM 1-1: Use the getElementById method to find the <p> element, and change its text to "Hello".
 
 // JS HTML DOM 2-1: Use the getElementsByTagName method to find the first <p> element, and change its text to "Hello".
