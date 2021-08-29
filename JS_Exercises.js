@@ -174,10 +174,11 @@
 // let x = Math.max(10, 20);
 // console.log(x);
 // JS Math 3-1: Use the correct Math method to round a number to the nearest integer.
-let x = Math.round(5.3);
-console.log(x);
+// let x = Math.round(5.3);
+// console.log(x);
 // JS Math 4-1: Use the correct Math method to get the square root of 9.
-
+let x = Math.sqrt(9);
+console.log(x);
 // JS Comparisons 1-1: Choose the correct comparison operator to alert true, when x is greater than y.
 
 // JS Comparisons 2-1: Choose the correct comparison operator to alert true, when x is equal to y.
