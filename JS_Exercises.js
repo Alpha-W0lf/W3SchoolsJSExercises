@@ -252,15 +252,24 @@
 //     console.log(x);
 // }
 // JS While Loops 1-1: Create a loop that runs as long as i is less than 10.
-let i = 0;
-while (i < 10) {
-    console.log(i);
-    i++
-};
+// let i = 0;
+// while (i < 10) {
+//     console.log(i);
+//     i++
+// };
 // JS While Loops 2-1: Create a loop that runs as long as i is less than 10, but increase i with 2 each time.
-
+// let i = 0;
+// while (i < 10) {
+//     console.log(i);
+//     i = i + 2;
+// };
 // JS Break Loops 1-1: Make the loop stop when i is 5.
-
+for (i = 0; i < 10; i++) {
+    console.log(i);
+    if (i == 5) {
+        break;
+    }
+}
 // JS Break Loops 2-1: Make the loop jump to the next iteration when i is 5.
 
 // JS HTML DOM 1-1: Use the getElementById method to find the <p> element, and change its text to "Hello".
