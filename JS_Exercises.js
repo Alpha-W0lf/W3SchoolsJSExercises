@@ -171,10 +171,11 @@
 // let r = Math.random();
 // console.log(r);
 // JS Math 2-1: Use the correct Math method to return the largest number of 10 and 20.
-let x = Math.max(10, 20);
-console.log(x);
+// let x = Math.max(10, 20);
+// console.log(x);
 // JS Math 3-1: Use the correct Math method to round a number to the nearest integer.
-
+let x = Math.round(5.3);
+console.log(x);
 // JS Math 4-1: Use the correct Math method to get the square root of 9.
 
 // JS Comparisons 1-1: Choose the correct comparison operator to alert true, when x is greater than y.
