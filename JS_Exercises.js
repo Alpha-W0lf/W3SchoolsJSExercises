@@ -116,5 +116,10 @@
 // txt = txt.replace("Hello", "Welcome");
 // console.log(txt);
 // JS String Methods 4-1: Convert the value of txt to upper case.
-
+// let txt = "Hello World";
+// txt = txt.toUpperCase();
+// console.log(txt);
 // JS String Methods 5-1: Convert the value of txt to lower case.
+// let txt = "Hello World";
+// txt = txt.toLowerCase();
+// console.log(txt);
