@@ -287,7 +287,8 @@
 /* <div class="test">next exercise</div>
 <script>document.getElementsByClassName("test")[0].innerHTML = "Hello";</script> */
 // JS HTML DOM 4-1: Use HTML DOM to change the value of the image's src attribute.
-
+/* <img id="image" src="smiley.gif">
+<script>document.getElementById("image").src = "pic_mountain.jpg";</script> */
 // JS HTML DOM 5-1: Use HTML DOM to change the value of the input field.
 
 // JS HTML DOM 6-1: Change the text color of the <p> element to "red".
