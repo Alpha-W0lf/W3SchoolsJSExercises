@@ -190,7 +190,10 @@
 // console.log(x == y);
 // alert(x == y);
 // JS Comparisons 3-1: Choose the correct comparison operator to alert true, when x is NOT equal to y.
-
+// let x = 10;
+// let y = 5;
+// console.log(x != y);
+// alert(x != y);
 // JS Comparisons 4-1: Choose the correct conditional (ternary) operator to alert "Too young" if age is less than 18, otherwise alert "Old enough".
 
 // JS Conditions 1-1: Fix the if statement to alert "Hello World" if x is greater than y.
