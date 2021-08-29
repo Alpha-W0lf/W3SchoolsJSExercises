@@ -167,3 +167,56 @@
 // const d = new Date();
 // d.setFullYear(2020);
 // console.log(d);
+// JS Math 1-1: Use the correct Math method to create a random number.
+
+// JS Math 2-1: Use the correct Math method to return the largest number of 10 and 20.
+
+// JS Math 3-1: Use the correct Math method to round a number to the nearest integer.
+
+// JS Math 4-1: Use the correct Math method to get the square root of 9.
+
+// JS Comparisons 1-1: Choose the correct comparison operator to alert true, when x is greater than y.
+
+// JS Comparisons 2-1: Choose the correct comparison operator to alert true, when x is equal to y.
+
+// JS Comparisons 3-1: Choose the correct comparison operator to alert true, when x is NOT equal to y.
+
+// JS Comparisons 4-1: Choose the correct conditional (ternary) operator to alert "Too young" if age is less than 18, otherwise alert "Old enough".
+
+// JS Conditions 1-1: Fix the if statement to alert "Hello World" if x is greater than y.
+
+// JS Conditions 2-1: Fix the if statement to alert "Hello World" if x is greater than y, otherwise alert "Goodbye".
+
+// JS Switch 1-1: Create a switch statement that will alert "Hello" if fruits is "banana", and "Welcome" if fruits is "apple".
+
+// JS Switch 2-1: Add a section that will alert("Neither") if fruits is neither "banana" nor "apple".
+
+// JS For Loops 1-1: Create a loop that runs from 0 to 9.
+
+// JS For Loops 2-1: Create a loop that runs through each item in the fruits array.
+
+// JS While Loops 1-1: Create a loop that runs as long as i is less than 10.
+
+// JS While Loops 2-1: Create a loop that runs as long as i is less than 10, but increase i with 2 each time.
+
+// JS Break Loops 1-1: Make the loop stop when i is 5.
+
+// JS Break Loops 2-1: Make the loop jump to the next iteration when i is 5.
+
+// JS HTML DOM 1-1: Use the getElementById method to find the <p> element, and change its text to "Hello".
+
+// JS HTML DOM 2-1: Use the getElementsByTagName method to find the first <p> element, and change its text to "Hello".
+
+// JS HTML DOM 3-1: Change the text of the first element that has the class name "test".
+
+// JS HTML DOM 4-1: Use HTML DOM to change the value of the image's src attribute.
+
+// JS HTML DOM 5-1: Use HTML DOM to change the value of the input field.
+
+// JS HTML DOM 6-1: Change the text color of the <p> element to "red".
+
+// JS HTML DOM 7-1: Change the font size of the p element to 40 pixels.
+
+// JS HTML DOM 8-1: Use the CSS display property to hide the p element.
+
+// JS HTML DOM 9-1: Use the eventListener to assign an onclick event to the <button> element.
