@@ -278,9 +278,11 @@
 //     console.log(i);
 // }
 // JS HTML DOM 1-1: Use the getElementById method to find the <p> element, and change its text to "Hello".
-
+/* <p id="demo">This is the text</p>
+<script>document.getElementById("demo").innerHTML = "Hello";</script> */
 // JS HTML DOM 2-1: Use the getElementsByTagName method to find the first <p> element, and change its text to "Hello".
-
+/* <p id="demo">This is the text</p>
+<script>document.getElementsByTagName("p")[0].innerHTML = "Hello";</script> */
 // JS HTML DOM 3-1: Change the text of the first element that has the class name "test".
 
 // JS HTML DOM 4-1: Use HTML DOM to change the value of the image's src attribute.
