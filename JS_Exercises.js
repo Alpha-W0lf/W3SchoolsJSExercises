@@ -156,10 +156,12 @@
 // console.log(d);
 // alert(d);
 // JS Dates 2-1: Use the correct Date method to extract the year (four digits) out of a date object.
-const d = new Date();
-year = d.getFullYear();
-console.log(year);
+// const d = new Date();
+// year = d.getFullYear();
+// console.log(year);
 // JS Dates 3-1: Use the correct Date method to get the month (0-11) out of a date object.
-
+// const d = new Date();
+// month = d.getMonth();
+// console.log(month);
 // JS Dates 4-1: Use the correct Date method to set the year of a date object to 2020.
 
