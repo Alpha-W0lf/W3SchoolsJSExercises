@@ -78,6 +78,7 @@
 //     lastName: 'Doe',
 //     country: 'Norway'
 // };
+// console.log(person.country);
 // JS Objects 3-1: Create an object called person with name = John, age = 50.
 // Then, access the object to alert("John is 50").
 
