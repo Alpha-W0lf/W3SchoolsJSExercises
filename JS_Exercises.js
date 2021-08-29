@@ -230,7 +230,17 @@
 //         break;
 // }
 // JS Switch 2-1: Add a section that will alert("Neither") if fruits is neither "banana" nor "apple".
-
+// fruits = "Orange";
+// switch (fruits) {
+//     case "Banana":
+//         console.log("Match B")
+//         break;
+//     case "Apple":
+//         console.log("Match A")
+//         break;
+//     default:
+//         console.log("Neither")
+// }
 // JS For Loops 1-1: Create a loop that runs from 0 to 9.
 
 // JS For Loops 2-1: Create a loop that runs through each item in the fruits array.
