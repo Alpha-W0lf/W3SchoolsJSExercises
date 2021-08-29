@@ -135,7 +135,10 @@
 // const cars = ["Volvo", "Jeep", "Mercedes"];
 // alert(cars.length);
 // JS Array Methods 1-1: Use the correct Array method to remove the last item of the fruits array.
-
+// const fruits = ["Banana", "Orange", "Apple"];
+// fruits.pop();
+// fruits.splice(-1);
+// console.log(fruits);
 // JS Array Methods 2-1: Use the correct Array method to add "Kiwi" to the fruits array.
 
 // JS Array Methods 3-1: Use the splice() method to remove "Orange" and "Apple" from fruits.
