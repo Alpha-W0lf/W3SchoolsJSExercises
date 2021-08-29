@@ -89,7 +89,7 @@
 // JS Events 1-1: The <button> element should do something when someone clicks on it. Try to fix it!
 /* <button onclick = "alert('Hello')">Click me.</button> */
 // JS Events 2-1: When the button is clicked, the function "myFunction" should be executed.
-
+/* <button onclick = "myFunction()">Click me.</button> */
 // JS Events 3-1: The <div> element should turn red when someone moves the mouse over it.
 
 // JS Strings 1-1: Use the length property to alert the length of txt.
