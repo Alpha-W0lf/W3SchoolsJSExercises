@@ -177,10 +177,13 @@
 // let x = Math.round(5.3);
 // console.log(x);
 // JS Math 4-1: Use the correct Math method to get the square root of 9.
-let x = Math.sqrt(9);
-console.log(x);
+// let x = Math.sqrt(9);
+// console.log(x);
 // JS Comparisons 1-1: Choose the correct comparison operator to alert true, when x is greater than y.
-
+// let x = 10;
+// let y = 5;
+// alert(x > y);
+// console.log(x > y);
 // JS Comparisons 2-1: Choose the correct comparison operator to alert true, when x is equal to y.
 
 // JS Comparisons 3-1: Choose the correct comparison operator to alert true, when x is NOT equal to y.
