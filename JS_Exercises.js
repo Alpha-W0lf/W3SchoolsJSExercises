@@ -264,12 +264,12 @@
 //     i = i + 2;
 // };
 // JS Break Loops 1-1: Make the loop stop when i is 5.
-for (i = 0; i < 10; i++) {
-    console.log(i);
-    if (i == 5) {
-        break;
-    }
-}
+// for (i = 0; i < 10; i++) {
+//     console.log(i);
+//     if (i == 5) {
+//         break;
+//     }
+// }
 // JS Break Loops 2-1: Make the loop jump to the next iteration when i is 5.
 
 // JS HTML DOM 1-1: Use the getElementById method to find the <p> element, and change its text to "Hello".
