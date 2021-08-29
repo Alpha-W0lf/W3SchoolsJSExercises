@@ -213,7 +213,21 @@
 //     alert("Goodbye");
 // }
 // JS Switch 1-1: Create a switch statement that will alert "Hello" if fruits is "banana", and "Welcome" if fruits is "apple".
-
+if (fruits == "banana") {
+    console.log("Hello");
+    break;
+} if else (fruits == "apple") {
+    console.log("Welcome");
+    break;
+}
+switch(fruits) {
+    case "Banana":
+        console.log("Hello")
+        break;
+    case "Apple":
+        console.log("Welcome")
+        break;
+}
 // JS Switch 2-1: Add a section that will alert("Neither") if fruits is neither "banana" nor "apple".
 
 // JS For Loops 1-1: Create a loop that runs from 0 to 9.
