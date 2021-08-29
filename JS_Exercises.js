@@ -123,3 +123,25 @@
 // let txt = "Hello World";
 // txt = txt.toLowerCase();
 // console.log(txt);
+// JS Arrays 1-1: Get the value "Volvo" from the cars array.
+
+// JS Arrays 2-1: Change the first item of cars to "Ford".
+
+// JS Arrays 3-1: Alert the number of items in an array, using the correct Array property.
+
+// JS Array Methods 1-1: Use the correct Array method to remove the last item of the fruits array.
+
+// JS Array Methods 2-1: Use the correct Array method to add "Kiwi" to the fruits array.
+
+// JS Array Methods 3-1: Use the splice() method to remove "Orange" and "Apple" from fruits.
+
+// JS Array Sort 1-1: Use the correct Array method to sort the fruits array alphabetically.
+
+// JS Dates 1-1: Create a Date object and alert the current date and time.
+
+// JS Dates 2-1: Use the correct Date method to extract the year (four digits) out of a date object.
+
+// JS Dates 3-1: Use the correct Date method to get the month (0-11) out of a date object.
+
+// JS Dates 4-1: Use the correct Date method to set the year of a date object to 2020.
+
