@@ -242,7 +242,10 @@
 //         console.log("Neither")
 // }
 // JS For Loops 1-1: Create a loop that runs from 0 to 9.
-
+// let i;
+// for (i = 0; i < 10; i++) {
+//     console.log(i);
+// }
 // JS For Loops 2-1: Create a loop that runs through each item in the fruits array.
 
 // JS While Loops 1-1: Create a loop that runs as long as i is less than 10.
