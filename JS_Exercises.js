@@ -93,9 +93,11 @@
 // JS Events 3-1: The <div> element should turn red when someone moves the mouse over it.
 /* <div onmouseover="this.style.backgroundColor='red'">myDIV.</div> */
 // JS Strings 1-1: Use the length property to alert the length of txt.
-
+// let txt = "Hello World!";
+// let x = txt.length;
+// alert(x);
 // JS Strings 2-1: Use escape characters to alert We are "Vikings".
-
+// alert("We are \"Vikings\".");
 // JS Strings 3-1: Concatenate the two strings to alert "Hello World!".
 
 // JS String Methods 1-1: Find the position of the character h in the string txt.
