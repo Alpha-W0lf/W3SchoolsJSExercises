@@ -302,3 +302,5 @@
 /* <p id="demo">Still adding gibberish</p>
 <script>document.getElementById("demo").style.display = "none";</script> */
 // JS HTML DOM 9-1: Use the eventListener to assign an onclick event to the <button> element.
+/* <button id="demo">CLICK ME!!</button>
+<script>document.getElementById("demo").addEventListener("click", myFunction);</script> */
