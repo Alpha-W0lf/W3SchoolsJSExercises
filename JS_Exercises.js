@@ -205,7 +205,13 @@
 //     alert("Hello World");
 // };
 // JS Conditions 2-1: Fix the if statement to alert "Hello World" if x is greater than y, otherwise alert "Goodbye".
-
+// var x = 8;
+// var y = 9;
+// if (x > y) {
+//     alert("Hello World");
+// } else {
+//     alert("Goodbye");
+// }
 // JS Switch 1-1: Create a switch statement that will alert "Hello" if fruits is "banana", and "Welcome" if fruits is "apple".
 
 // JS Switch 2-1: Add a section that will alert("Neither") if fruits is neither "banana" nor "apple".
