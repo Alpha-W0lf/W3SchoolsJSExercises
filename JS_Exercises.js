@@ -66,3 +66,31 @@
 //     document.getElementById('demo').innerHTML = "Hello";
 // };
 // myFunction();
+// JS Objects 1-1: Alert "John" by extracting information from the person object.
+
+// JS Objects 2-1: Add the following property and value to the person object: country: Norway.
+
+// JS Objects 3-1: Create an object called person with name = John, age = 50.
+// Then, access the object to alert("John is 50").
+
+// JS Events 1-1: The <button> element should do something when someone clicks on it. Try to fix it!
+
+// JS Events 2-1: When the button is clicked, the function "myFunction" should be executed.
+
+// JS Events 3-1: The <div> element should turn red when someone moves the mouse over it.
+
+// JS Strings 1-1: Use the length property to alert the length of txt.
+
+// JS Strings 2-1: Use escape characters to alert We are "Vikings".
+
+// JS Strings 3-1: Concatenate the two strings to alert "Hello World!".
+
+// JS String Methods 1-1: Find the position of the character h in the string txt.
+
+// JS String Methods 2-1: Use the slice method to return the word "bananas".
+
+// JS String Methods 3-1: Use the correct String method to replace the word "Hello" with the word "Welcome".
+
+// JS String Methods 4-1: Convert the value of txt to upper case.
+
+// JS String Methods 5-1: Convert the value of txt to lower case.
