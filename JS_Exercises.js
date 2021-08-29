@@ -299,5 +299,6 @@
 /* <p id="demo">Howdy World!!</p>
 <script>document.getElementById("demo").style.fontSize = "40px";</script> */
 // JS HTML DOM 8-1: Use the CSS display property to hide the p element.
-
+/* <p id="demo">Still adding gibberish</p>
+<script>document.getElementById("demo").style.display = "none";</script> */
 // JS HTML DOM 9-1: Use the eventListener to assign an onclick event to the <button> element.
