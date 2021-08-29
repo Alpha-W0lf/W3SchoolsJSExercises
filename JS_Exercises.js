@@ -290,9 +290,11 @@
 /* <img id="image" src="smiley.gif">
 <script>document.getElementById("image").src = "pic_mountain.jpg";</script> */
 // JS HTML DOM 5-1: Use HTML DOM to change the value of the input field.
-
+/* <input type="text" id="myText" value="Hello">
+<script>document.getElementById("myText").value = "Have a nice day!";</script> */
 // JS HTML DOM 6-1: Change the text color of the <p> element to "red".
-
+/* <p id="demo">this is a paragraph</p>
+<script>document.getElementById("demo").style.color = "red";</script> */
 // JS HTML DOM 7-1: Change the font size of the p element to 40 pixels.
 
 // JS HTML DOM 8-1: Use the CSS display property to hide the p element.
