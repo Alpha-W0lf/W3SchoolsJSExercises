@@ -99,7 +99,9 @@
 // JS Strings 2-1: Use escape characters to alert We are "Vikings".
 // alert("We are \"Vikings\".");
 // JS Strings 3-1: Concatenate the two strings to alert "Hello World!".
-
+// let str1 = "Hello ";
+// let str2 = "World!";
+// alert(str1 + str2);
 // JS String Methods 1-1: Find the position of the character h in the string txt.
 
 // JS String Methods 2-1: Use the slice method to return the word "bananas".
