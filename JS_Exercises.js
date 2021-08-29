@@ -67,9 +67,17 @@
 // };
 // myFunction();
 // JS Objects 1-1: Alert "John" by extracting information from the person object.
-
+// const person = {
+//     firstName : "John",
+//     lastName : "Doe"
+// };
+// alert(person.firstName);
 // JS Objects 2-1: Add the following property and value to the person object: country: Norway.
-
+// const person = {
+//     firstName: 'John',
+//     lastName: 'Doe',
+//     country: 'Norway'
+// };
 // JS Objects 3-1: Create an object called person with name = John, age = 50.
 // Then, access the object to alert("John is 50").
 
