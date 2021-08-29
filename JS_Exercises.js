@@ -195,7 +195,9 @@
 // console.log(x != y);
 // alert(x != y);
 // JS Comparisons 4-1: Choose the correct conditional (ternary) operator to alert "Too young" if age is less than 18, otherwise alert "Old enough".
-
+var age = 20;
+var voteable = (age < 18) ? "Too young" : "Old enough"; 
+console.log(voteable);
 // JS Conditions 1-1: Fix the if statement to alert "Hello World" if x is greater than y.
 
 // JS Conditions 2-1: Fix the if statement to alert "Hello World" if x is greater than y, otherwise alert "Goodbye".
