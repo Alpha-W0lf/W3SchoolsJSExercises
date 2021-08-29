@@ -144,9 +144,9 @@
 // fruits.push("Kiwi")
 // console.log(fruits);
 // JS Array Methods 3-1: Use the splice() method to remove "Orange" and "Apple" from fruits.
-const fruits = ["Banana", "Orange", "Apple", "Kiwi"];
-fruits.splice(1, 2);
-console.log(fruits);
+// const fruits = ["Banana", "Orange", "Apple", "Kiwi"];
+// fruits.splice(1, 2);
+// console.log(fruits);
 // JS Array Sort 1-1: Use the correct Array method to sort the fruits array alphabetically.
 
 // JS Dates 1-1: Create a Date object and alert the current date and time.
