@@ -124,7 +124,9 @@
 // txt = txt.toLowerCase();
 // console.log(txt);
 // JS Arrays 1-1: Get the value "Volvo" from the cars array.
-
+const cars = ["Saab", "Volvo", "BMW"];
+let x = cars[1];
+console.log(x);
 // JS Arrays 2-1: Change the first item of cars to "Ford".
 
 // JS Arrays 3-1: Alert the number of items in an array, using the correct Array property.
