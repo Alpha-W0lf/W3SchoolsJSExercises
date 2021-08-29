@@ -103,7 +103,10 @@
 // let str2 = "World!";
 // alert(str1 + str2);
 // JS String Methods 1-1: Find the position of the character h in the string txt.
-
+// let txt = "abcdefghijklm";
+// let pos = txt.indexOf("h");
+// console.log(pos);
+// alert(pos);
 // JS String Methods 2-1: Use the slice method to return the word "bananas".
 
 // JS String Methods 3-1: Use the correct String method to replace the word "Hello" with the word "Welcome".
